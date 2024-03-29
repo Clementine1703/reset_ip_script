@@ -1,0 +1,5 @@
+
+device enp6s0
+host_ip 192.168.1.79
+host_fqdn krvhost.testing.test
+

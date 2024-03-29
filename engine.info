@@ -1,0 +1,9 @@
+
+{
+  "code": 0,
+  "output": {
+    "engine_ip": "192.168.1.78",
+    "engine_fqdn": "krvengine.testing.test"
+  }
+}
+
